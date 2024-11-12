@@ -1,0 +1,4 @@
+./jobCommander issueJob ./progDelay 10
+./jobCommander poll running
+./jobCommander poll queued
+./jobCommander exit
